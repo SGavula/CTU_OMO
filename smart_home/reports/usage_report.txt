@@ -1,0 +1,34 @@
+Jacob White
+      Device: SmartTV, Usage Count: 3
+      Device: CoffeeMaker, Usage Count: 3
+      Device: Dishwasher, Usage Count: 1
+
+Emma White
+      Device: Lamp, Usage Count: 1
+      Device: GamingConsole, Usage Count: 1
+      Device: GamingConsole, Usage Count: 1
+
+Jenna White
+      Device: Mobile, Usage Count: 1
+      Device: Refrigerator, Usage Count: 2
+      Device: SmartTV, Usage Count: 2
+      Device: GasStove, Usage Count: 1
+
+Peter White
+      Device: Mobile, Usage Count: 1
+      Device: Dishwasher, Usage Count: 1
+      Device: Mobile, Usage Count: 1
+      Device: Mobile, Usage Count: 1
+
+John White
+      Device: Mobile, Usage Count: 1
+      Device: Lamp, Usage Count: 1
+
+Marry White
+      Device: Lamp, Usage Count: 1
+      Device: SmartTV, Usage Count: 1
+      Device: GasStove, Usage Count: 2
+      Device: CoffeeMaker, Usage Count: 1
+      Device: Lamp, Usage Count: 1
+      Device: Mobile, Usage Count: 1
+

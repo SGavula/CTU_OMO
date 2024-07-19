@@ -1,0 +1,129 @@
+House:
+Floor 0: 
+    Hallway: 
+        Number of windows: 1
+              Window has opened blinds
+
+        Devices: 
+            Lamp
+            CircuitBreakers
+            Lamp
+    Kitchen: 
+        Number of windows: 3
+              Window has closed blinds
+              Window has opened blinds
+              Window has opened blinds
+
+        Devices: 
+            CoffeeMaker
+            Dishwasher
+            GasStove
+            Oven
+            Refrigerator
+            Lamp
+    Living Room: 
+        Number of windows: 3
+              Window has opened blinds
+              Window has closed blinds
+              Window has opened blinds
+
+        Devices: 
+            Mobile
+            SoundSystem
+            SmartTV
+            Thermostat
+            GamingConsole
+            Lamp
+            Lamp
+Floor 1: 
+    Bedroom: 
+        Number of windows: 2
+              Window has closed blinds
+              Window has closed blinds
+
+        Devices: 
+            SmartTV
+            Mobile
+            Lamp
+    Bathroom: 
+        Number of windows: 1
+              Window has closed blinds
+
+        Devices: 
+            Lamp
+    Kid's room: 
+        Number of windows: 2
+              Window has opened blinds
+              Window has opened blinds
+
+        Devices: 
+            Mobile
+            Tablet
+            GamingConsole
+            Lamp
+            Lamp
+            Lamp
+Floor 2: 
+    Bedroom: 
+        Number of windows: 2
+              Window has opened blinds
+              Window has opened blinds
+
+        Devices: 
+            SmartTV
+            Mobile
+            Lamp
+    Bathroom: 
+        Number of windows: 1
+              Window has closed blinds
+
+        Devices: 
+            Lamp
+    Kid's room: 
+        Number of windows: 3
+              Window has opened blinds
+              Window has opened blinds
+              Window has opened blinds
+
+        Devices: 
+            Mobile
+            GamingConsole
+            SoundSystem
+            Lamp
+
+Garage: 
+    number of skis: 3
+    number of bikes: 3
+
+----------------------------------------
+
+People: 
+    Parents: 
+        Jacob White: 
+            Age: 35
+        Emma White: 
+            Age: 32
+        John White: 
+            Age: 25
+        Marry White: 
+            Age: 28
+    Children: 
+        Jenna White: 
+            Age: 8
+    Babies: 
+        Peter White: 
+            Age: 1
+
+    Total People Count: 6
+
+----------------------------------------
+
+Pets: 
+    Doggy: 
+        Type: Cat
+    Buddy: 
+        Type: Dog
+    Fluffy: 
+        Type: Rabbit
+
+    Total Pet Count: 3

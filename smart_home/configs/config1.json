@@ -1,0 +1,332 @@
+
+{
+  "iterations": 800,
+  "house": [
+    {
+      "floors": 2
+    },
+    {
+      "rooms": [
+        {
+          "id": 1,
+          "type": "Hallway",
+          "floor_loc": 0,
+          "windows": 0
+        },
+        {
+          "id": 2,
+          "type": "Kitchen",
+          "floor_loc": 0,
+          "windows": 2
+        },
+        {
+          "id": 3,
+          "type": "Living Room",
+          "floor_loc": 0,
+          "windows": 4
+        },
+        {
+          "id": 4,
+          "floor_loc": 0,
+          "type": "Bathroom",
+          "windows": 1
+        },
+        {
+          "id": 5,
+          "floor_loc": 1,
+          "type": "Bedroom",
+          "windows": 3
+        },
+        {
+          "id": 6,
+          "floor_loc": 1,
+          "type": "Bathroom",
+          "windows": 2
+        },
+        {
+          "id": 7,
+          "floor_loc": 1,
+          "type": "Kid's room",
+          "windows": 2
+        }
+      ]
+    },
+    {
+      "devices": [
+        {
+          "room_loc": 1,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 1,
+          "type": "CircuitBreakers",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 3,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 1,
+          "type": "WindSensor",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 2,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 1,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 2,
+          "type": "CoffeeMaker",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 5,
+          "defaultWaterConsumption": 3,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 2,
+          "type": "Dishwasher",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 7,
+          "defaultWaterConsumption": 5,
+          "defaultGasConsumption": 2
+        },
+        {
+          "room_loc": 2,
+          "type": "GasStove",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 6,
+          "defaultWaterConsumption": 2,
+          "defaultGasConsumption": 8
+        },
+        {
+          "room_loc": 2,
+          "type": "Oven",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 1,
+          "defaultGasConsumption": 6
+        },
+        {
+          "room_loc": 2,
+          "type": "Refrigerator",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 3,
+          "defaultWaterConsumption": 2,
+          "defaultGasConsumption": 1
+        },
+        {
+          "room_loc": 2,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "Mobile",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 2,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "LightSensor",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 1,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "WindSensor",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 2,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "SoundSystem",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 8,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "SmartTV",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 6,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "Thermostat",
+          "state_of_device": 0,
+          "durability": 92,
+          "defaultElectricityConsumption": 2,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 3,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 4,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 5,
+          "type": "SmartTV",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 6,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 5,
+          "type": "Mobile",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 2,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 5,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 6,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 7,
+          "type": "Mobile",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 2,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 7,
+          "type": "Tablet",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 7,
+          "type": "GamingConsole",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 10,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 7,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        },
+        {
+          "room_loc": 7,
+          "type": "Lamp",
+          "state_of_device": 0,
+          "durability": 100,
+          "defaultElectricityConsumption": 4,
+          "defaultWaterConsumption": 0,
+          "defaultGasConsumption": 0
+        }
+      ]
+    },
+    {
+      "people": [
+        {"name": "John Smith", "age": 35, "room_loc": 1},
+        {"name": "Emma Smith", "age": 28, "room_loc": 2},
+        {"name": "Sophie Smith", "age": 8, "room_loc": 6},
+        {"name": "Noah Smith", "age": 6, "room_loc": 6},
+        {"name": "Olivia Smith", "age": 2, "room_loc": 2},
+        {"name": "Matthew Smith", "age": 2, "room_loc": 0}
+      ]
+    },
+    {
+      "pets": [
+        {"name": "Whiskers", "type": "Cat", "room_loc": 2},
+        {"name": "Buddy", "type": "Dog", "room_loc": 1},
+        {"name": "Fluffy", "type": "Rabbit", "room_loc": 2}
+      ]
+    },
+    {
+      "number_of_skis": 2,
+      "number_of_bicycles": 3
+    }
+  ]
+}
